@@ -8,6 +8,7 @@ namespace Projekt_1
         {
             Random rand = new Random();
             int slump_tal = rand.Next(1,101);
+            int gissningar = 0;
             Console.WriteLine ("Gissa på ett tal mellan 1 och 100");
             int tal = Convert.ToInt32(Console.ReadLine());
             while (tal != slump_tal)
@@ -21,11 +22,12 @@ namespace Projekt_1
                     Console.WriteLine ("Talet är för högt. Gissa igen!");
                 }
                 tal = Convert.ToInt32 (Console.ReadLine());
+                gissningar++;
     
             }
 
             Console.WriteLine ("Du gissade rätt!");
-            Console.WriteLine("Det tog så här många försök: ");
+            Console.WriteLine("Det tog så här många försök: " + gissningar);
             
         }
     }

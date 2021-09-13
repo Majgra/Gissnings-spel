@@ -14,3 +14,19 @@ C:\Users\Admin\Documents\Projekt 1\obj\Debug\net5.0\Projekt 1.dll
 C:\Users\Admin\Documents\Projekt 1\obj\Debug\net5.0\ref\Projekt 1.dll
 C:\Users\Admin\Documents\Projekt 1\obj\Debug\net5.0\Projekt 1.pdb
 C:\Users\Admin\Documents\Projekt 1\obj\Debug\net5.0\Projekt 1.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\Gissnings-spel\bin\Debug\net5.0\Projekt 1.exe
+C:\Users\Admin\Documents\GitHub\Gissnings-spel\bin\Debug\net5.0\Projekt 1.deps.json
+C:\Users\Admin\Documents\GitHub\Gissnings-spel\bin\Debug\net5.0\Projekt 1.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\Gissnings-spel\bin\Debug\net5.0\Projekt 1.runtimeconfig.dev.json
+C:\Users\Admin\Documents\GitHub\Gissnings-spel\bin\Debug\net5.0\Projekt 1.dll
+C:\Users\Admin\Documents\GitHub\Gissnings-spel\bin\Debug\net5.0\ref\Projekt 1.dll
+C:\Users\Admin\Documents\GitHub\Gissnings-spel\bin\Debug\net5.0\Projekt 1.pdb
+C:\Users\Admin\Documents\GitHub\Gissnings-spel\obj\Debug\net5.0\Projekt 1.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Gissnings-spel\obj\Debug\net5.0\Projekt 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\Gissnings-spel\obj\Debug\net5.0\Projekt 1.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\Gissnings-spel\obj\Debug\net5.0\Projekt 1.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\Gissnings-spel\obj\Debug\net5.0\Projekt 1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\Gissnings-spel\obj\Debug\net5.0\Projekt 1.dll
+C:\Users\Admin\Documents\GitHub\Gissnings-spel\obj\Debug\net5.0\ref\Projekt 1.dll
+C:\Users\Admin\Documents\GitHub\Gissnings-spel\obj\Debug\net5.0\Projekt 1.pdb
+C:\Users\Admin\Documents\GitHub\Gissnings-spel\obj\Debug\net5.0\Projekt 1.genruntimeconfig.cache

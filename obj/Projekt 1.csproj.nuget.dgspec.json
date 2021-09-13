@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Documents\\Projekt 1\\Projekt 1.csproj": {}
+    "C:\\Users\\Admin\\Documents\\GitHub\\Gissnings-spel\\Projekt 1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Documents\\Projekt 1\\Projekt 1.csproj": {
+    "C:\\Users\\Admin\\Documents\\GitHub\\Gissnings-spel\\Projekt 1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Documents\\Projekt 1\\Projekt 1.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\Gissnings-spel\\Projekt 1.csproj",
         "projectName": "Projekt 1",
-        "projectPath": "C:\\Users\\Admin\\Documents\\Projekt 1\\Projekt 1.csproj",
+        "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\Gissnings-spel\\Projekt 1.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Documents\\Projekt 1\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\Gissnings-spel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
